@@ -1,2 +1,2 @@
 # TravelClustering
- Cluster analysis of travel data.
+ Cluster analysis of travel data for grad program.
